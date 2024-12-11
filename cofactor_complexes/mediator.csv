@@ -1,0 +1,34 @@
+﻿GeneID,Complex,Subcomplex or Module,Own-complex paralog,Other-complex Paralogues,Notes,Source
+MED6,Mediator,[Head],,,,Malik and Roeder (2023)
+MED8,Mediator,[Head],,,,Malik and Roeder (2023)
+MED11,Mediator,[Head],,,,Malik and Roeder (2023)
+MED17,Mediator,"[Head, Middle]",,,Central scaffold of head unit,Malik and Roeder (2023)
+MED18,Mediator,[Head],,,,Malik and Roeder (2023)
+MED20,Mediator,[Head],,,,Malik and Roeder (2023)
+MED22,Mediator,[Head],,,,Malik and Roeder (2023)
+MED27,Mediator,"[Head, Tail]",,,"MED3 yeast, MED27 Arabidopsis","Nayak, Shraddha et al. (2022)"
+MED28,Mediator,"[Head, Tail]",,,,"Nayak, Shraddha et al. (2022)"
+MED14,Mediator,"[Head, Middle, Tail]",,,,"Nayak, Shraddha et al. (2022)"
+MED30,Mediator,"[Head, Tail]",,,,"Nayak, Shraddha et al. (2022)"
+MED4,Mediator,[Middle],,,,Malik and Roeder (2023)
+MED7,Mediator,[Middle],,,,Malik and Roeder (2023)
+MED10,Mediator,[Middle],,,,Malik and Roeder (2023)
+MED19,Mediator,[Middle],,,,Malik and Roeder (2023)
+MED21,Mediator,[Middle],,,,Malik and Roeder (2023)
+MED1,Mediator,[Middle],,,,Malik and Roeder (2023)
+MED31,Mediator,[Middle],,,,Malik and Roeder (2023)
+MED9,Mediator,[Middle],,,,"Nayak, Shraddha et al. (2022)"
+MED26,Mediator,[Middle],,,,Malik and Roeder (2023)
+MED15,Mediator,[Tail],,,,Malik and Roeder (2023)
+MED16,Mediator,[Tail],,,,Malik and Roeder (2023)
+MED23,Mediator,[Tail],,,,Malik and Roeder (2023)
+MED24,Mediator,[Tail],,,"MED5 yeast, MED33 Arabidopsis",Malik and Roeder (2023)
+MED25,Mediator,[Tail],,,,Malik and Roeder (2023)
+MED29,Mediator,[Tail],,,"MED2 Yeast, MED32 Arabidopsis",Malik and Roeder (2023)
+MED12,Mediator,Kinase,[MED12K],,,Malik and Roeder (2023)
+MED13,Mediator,Kinase,[MED13L],,,Malik and Roeder (2023)
+CDK8,Mediator,Kinase,[CDK19],,,Malik and Roeder (2023)
+CCNC,Mediator,Kinase,,,,Malik and Roeder (2023)
+MED12L,Mediator,Kinase,[MED12],,,"Nayak, Shraddha et al. (2022)"
+MED13L,Mediator,Kinase,[MED13],,,"Nayak, Shraddha et al. (2022)"
+CDK19,Mediator,Kinase,[CDK8],,,"Nayak, Shraddha et al. (2022)"

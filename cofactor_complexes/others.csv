@@ -1,0 +1,110 @@
+﻿GeneID,Complex,Subcomplex or Module,Own-complex paralog,Other-complex Paralogues,Notes,Source
+FT2B,TFIIB,,,,,Bell et al. 2024
+GTF2A1,TFIIA,,,,,Bell et al. 2024
+GTF2A2,TFIIA,,,,,Bell et al. 2024
+GTF2E1,TFIIE,,,,,Bell et al. 2024
+GTF2E2,TFIIE,,,,,Bell et al. 2024
+GTF2F1,TFIIF,,,,,Bell et al. 2024
+GTF2F2,TFIIF,,,,,Bell et al. 2024
+ERCC3,TFIIH,,,,,Bell et al. 2024
+GTF2H1,TFIIH,,,,,Bell et al. 2024
+ERCC2,TFIIH,,,,,Bell et al. 2024
+CDK7,TFIIH,,,,,Bell et al. 2024
+CCNH,TFIIH,,,,,Bell et al. 2024
+GTFH2,TFIIH,,,,,Bell et al. 2024
+MNAT1,TFIIH,,,,,Bell et al. 2024
+GTFH2H4,TFIIH,,,,,Bell et al. 2024
+SUPT16H,FACT,,,,,Bell et al. 2024
+SSRP1,FACT,,,,,Bell et al. 2024
+NELFA,NELF/DSIF,,,,,Bell et al. 2024
+NELFB,NELF/DSIF,,,,,Bell et al. 2024
+NELFE,NELF/DSIF,,,,,Bell et al. 2024
+NELFCD,NELF/DSIF,,,,,Bell et al. 2024
+SUPT4H1,NELF/DSIF,,,,,Bell et al. 2024
+SUPT5H,NELF/DSIF,,,,,Bell et al. 2024
+INTS1,Integrator,,,,,Bell et al. 2024
+INTS4,Integrator,,,,,Bell et al. 2024
+INTS7,Integrator,,,,,Bell et al. 2024
+INTS2,Integrator,,,,,Bell et al. 2024
+INTS5,Integrator,,,,,Bell et al. 2024
+INTS8,Integrator,,,,,Bell et al. 2024
+INTS10,Integrator,,,,,Bell et al. 2024
+INTS9,Integrator,,,,,Bell et al. 2024
+INTS12,Integrator,,,,,Bell et al. 2024
+SETD1A,SET/COMPASS,,,,,Bell et al. 2024
+SETD1B,SET/COMPASS,,,,,Bell et al. 2024
+DPY30,SET/COMPASS,,,,,Bell et al. 2024
+ASH2L,SET/COMPASS,,,,,Bell et al. 2024
+WDR5,SET/COMPASS,,,,,Bell et al. 2024
+WDR82,SET/COMPASS,,,,,Bell et al. 2024
+CXXC1,SET/COMPASS,,,,,Bell et al. 2024
+RBBP5,SET/COMPASS,,,,,Bell et al. 2024
+MENIN,SET/COMPASS,,,,,Bell et al. 2024
+KMT2A,SET/COMPASS,,,,,Bell et al. 2024
+KMT2B,SET/COMPASS,,,,,Bell et al. 2024
+KMT2D,SET/COMPASS,,,,,Bell et al. 2024
+AFF1,Elongation,,,,,Bell et al. 2024
+LEO1,Elongation,,,,,Bell et al. 2024
+DOT1L,Elongation,,,,,Bell et al. 2024
+ELL,Elongation,,,,,Bell et al. 2024
+CTR9,Elongation,,,,,Bell et al. 2024
+PAF1,Elongation,,,,,Bell et al. 2024
+CDC73,Elongation,,,,,Bell et al. 2024
+WDR61,Elongation,,,,,Bell et al. 2024
+ELOA,Elongation,,,,,Bell et al. 2024
+UBE2A,Elongation,,,,,Bell et al. 2024
+HUWE1,Elongation,,,,,Bell et al. 2024
+MLLT1,Elongation,,,,,Bell et al. 2024
+MLLT10,Elongation,,,,,Bell et al. 2024
+SUPT6H,Elongation,,,,,Bell et al. 2024
+TRIM28,Elongation,,,,,Bell et al. 2024
+AFF4,Elongation,,,,,Bell et al. 2024
+EP400,HATS,,,,,Bell et al. 2024
+KAT2A,HATS,,,,,Bell et al. 2024
+KAT2B,HATS,,,,,Bell et al. 2024
+KAT5,HATS,,,,,Bell et al. 2024
+KAT6A,HATS,,,,,Bell et al. 2024
+KAT6B,HATS,,,,,Bell et al. 2024
+KAT8,HATS,,,,,Bell et al. 2024
+POLR2B,RNA Pol II,,,,,Bell et al. 2024
+POLR2C,RNA Pol II,,,,,Bell et al. 2024
+POLR2A,RNA Pol II,,,,,Bell et al. 2024
+POLR2J,RNA Pol II,,,,,Bell et al. 2024
+POLR2K,RNA Pol II,,,,,Bell et al. 2024
+POLR2D,RNA Pol II,,,,,Bell et al. 2024
+POLR2H,RNA Pol II,,,,,Bell et al. 2024
+POLR2G,RNA Pol II,,,,,Bell et al. 2024
+POLR2F,RNA Pol II,,,,,Bell et al. 2024
+POLR2E,RNA Pol II,,,,,Bell et al. 2024
+CDK12,CDKs,,,,,Bell et al. 2024
+CCNK,CDKs,,,,,Bell et al. 2024
+CDK13,CDKs,,,,,Bell et al. 2024
+CDK9,CDKs,,,,,Bell et al. 2024
+CCNT1,CDKs,,,,,Bell et al. 2024
+CCNT2,CDKs,,,,,Bell et al. 2024
+NCOA1,NCOA,,,,,Bell et al. 2024
+NCOA3,NCOA,,,,,Bell et al. 2024
+NCOA6,NCOA,,,,,Bell et al. 2024
+CHD1,Chromatin Remodelers,,,,,Bell et al. 2024
+SMARCA5,Chromatin Remodelers,,,,,Bell et al. 2024
+MAZ,Chromatin Remodelers,,,,,Bell et al. 2024
+BPTF,Chromatin Remodelers,,,,,Bell et al. 2024
+ARID1A,Chromatin Remodelers,,,,,Bell et al. 2024
+ARID1B,Chromatin Remodelers,,,,,Bell et al. 2024
+ARID2,Chromatin Remodelers,,,,,Bell et al. 2024
+ARID4A,Chromatin Remodelers,,,,,Bell et al. 2024
+ARID4B,Chromatin Remodelers,,,,,Bell et al. 2024
+RUVBL1,Chromatin Remodelers,,,,,Bell et al. 2024
+RUVBL2,Chromatin Remodelers,,,,,Bell et al. 2024
+SMARCB1,Chromatin Remodelers,,,,,Bell et al. 2024
+INO80B,Chromatin Remodelers,,,,,Bell et al. 2024
+SMARCA4,Chromatin Remodelers,,,,,Bell et al. 2024
+SMARCD1,Chromatin Remodelers,,,,,Bell et al. 2024
+SMARCA1,Chromatin Remodelers,,,,,Bell et al. 2024
+SMARCC1,Chromatin Remodelers,,,,,Bell et al. 2024
+SMARCC2,Chromatin Remodelers,,,,,Bell et al. 2024
+SMARCD2,Chromatin Remodelers,,,,,Bell et al. 2024
+SMARCD3,Chromatin Remodelers,,,,,Bell et al. 2024
+SMARCE1,Chromatin Remodelers,,,,,Bell et al. 2024
+BRD9,Chromatin Remodelers,,,,,Bell et al. 2024
+SMARCAD1,Chromatin Remodelers,,,,,Bell et al. 2024
