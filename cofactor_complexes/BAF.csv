@@ -1,4 +1,4 @@
-﻿GeneID,Complex,Subcomplex or Module,Own-complex paralog,Other-complex Paralogues,Notes,Source
+﻿Gene Name,Complex,Subcomplex or Module,Own-complex paralog,Other-complex Paralogues,Notes,Source
 BAF180,BAF,esBAF,,,,Alfert et al. Epigenetics & Chromatin (2019)
 BCL11A,BAF,esBAF,[BCL11B],,,Alfert et al. Epigenetics & Chromatin (2019)
 BCL11B,BAF,esBAF,[BCL11A],,,Alfert et al. Epigenetics & Chromatin (2019)

@@ -1,13 +1,13 @@
-﻿GeneID,Complex,Subcomplex or Module,Own-complex paralog,Other-complex Paralogues,Notes,Source
+﻿Gene Name,Complex,Subcomplex or Module,Own-complex paralog,Other-complex Paralogues,Notes,Source
 TRRAP,TIP60,[TRAAP],,,,Yang et al. 2024
-EP400,,"[TRAAP, ARP, Base]",,,,Yang et al. 2024
-DMAP1,,[ARP],,,,Yang et al. 2024
-BAF53A,,[ARP],,,,Yang et al. 2024
-EPC1,,[ARP],,,,Yang et al. 2024
-ACTB,,[ARP],,,,Yang et al. 2024
-VPS72,,[Base],,,,Yang et al. 2024
-RUVBL1,,[Base],,,,Yang et al. 2024
-RUVBL2,,[Base],,,,Yang et al. 2024
-BAF53A,,[Base],,,,Yang et al. 2024
-H2AZ,,[Base],,,,Yang et al. 2024
-H2B,,[Base],,,,Yang et al. 2024
+EP400,TIP60,"[TRAAP, ARP, Base]",,,,Yang et al. 2024
+DMAP1,TIP60,[ARP],,,,Yang et al. 2024
+BAF53A,TIP60,[ARP],,,,Yang et al. 2024
+EPC1,TIP60,[ARP],,,,Yang et al. 2024
+ACTB,TIP60,[ARP],,,,Yang et al. 2024
+VPS72,TIP60,[Base],,,,Yang et al. 2024
+RUVBL1,TIP60,[Base],,,,Yang et al. 2024
+RUVBL2,TIP60,[Base],,,,Yang et al. 2024
+BAF53A,TIP60,[Base],,,,Yang et al. 2024
+H2AZ,TIP60,[Base],,,,Yang et al. 2024
+H2B,TIP60,[Base],,,,Yang et al. 2024
