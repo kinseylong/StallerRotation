@@ -62,3 +62,20 @@ BCL7A,BAF,nBAF,"[BCL7B, BCL7C]",,,Alfert et al. Epigenetics & Chromatin (2019)
 BCL7B,BAF,nBAF,"[BCL7A, BCL7C]",,,Alfert et al. Epigenetics & Chromatin (2019)
 BCL7C,BAF,nBAF,"[BCL7A, BCL7B]",,,Alfert et al. Epigenetics & Chromatin (2019)
 BAF53B,BAF,nBAF,,[BAF53A],,Alfert et al. Epigenetics & Chromatin (2019)
+SMARCA4,BAF,endogenous,[SMARCA2],,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+SMARCA2,BAF,endogenous,[SMARCA4],,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+BCL7A,BAF,endogenous,"[BCL7B, BCL7C]",,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+BCL7B,BAF,endogenous,"[BCL7A, BCL7C]",,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+BCL7C,BAF,endogenous,"[BCL7A, BCL7B]",,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+ACTB,BAF,endogenous,,,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+ACTL6A,BAF,endogenous,,,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+SMARCC1,BAF,endogenous,[SMARCC2],,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+SMARCC2,BAF,endogenous,[SMARCC1],,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+SMARCE1,BAF,endogenous,,,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+SMARCD1,BAF,endogenous,[SMARCD2],,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+SMARCD2,BAF,endogenous,[SMARCD1],,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+SS18,BAF,endogenous,,,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+ARID1A,BAF,endogenous,[ARID1B],,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+ARID1B,BAF,endogenous,[ARID1A],,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+DPF2,BAF,endogenous,,,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"
+SMARCB1,BAF,endogenous,,,,"Mashtalir, Suzuki ,Farrell, Sankar, et al. Cell (2021)"

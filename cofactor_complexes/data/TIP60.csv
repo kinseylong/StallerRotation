@@ -1,13 +1,19 @@
 ﻿Gene Name,Complex,Subcomplex or Module,Own-complex paralog,Other-complex Paralogues,Notes,Source
-TRRAP,TIP60,[TRAAP],,,,Yang et al. 2024
-EP400,TIP60,"[TRAAP, ARP, Base]",,,,Yang et al. 2024
-DMAP1,TIP60,[ARP],,,,Yang et al. 2024
-BAF53A,TIP60,[ARP],,,,Yang et al. 2024
-EPC1,TIP60,[ARP],,,,Yang et al. 2024
-ACTB,TIP60,[ARP],,,,Yang et al. 2024
-VPS72,TIP60,[Base],,,,Yang et al. 2024
-RUVBL1,TIP60,[Base],,,,Yang et al. 2024
-RUVBL2,TIP60,[Base],,,,Yang et al. 2024
-BAF53A,TIP60,[Base],,,,Yang et al. 2024
-H2AZ,TIP60,[Base],,,,Yang et al. 2024
-H2B,TIP60,[Base],,,,Yang et al. 2024
+TAF1,TFIID,"[TAF, INR-binding]",,,,"Goodrich and Tijian, 2010"
+TAF2,TFIID,"[TAF, INR-binding]",,,,"Goodrich and Tijian, 2011"
+TAF6,TFIID,"[TAF, DPE-binding]",,,,"Goodrich and Tijian, 2012"
+TAF9,TFIID,"[TAF, DPE-binding]",,,,"Goodrich and Tijian, 2013"
+TBP,TFIID,[TBP],,,,"Goodrich and Tijian, 2014"
+TAF4,TFIID,[TAF],,,,"Goodrich and Tijian, 2015"
+TAF8,TFIID,[TAF],,,,"Goodrich and Tijian, 2016"
+TAF10,TFIID,[TAF],,,,"Goodrich and Tijian, 2017"
+TAF12,TFIID,[TAF],,,,"Goodrich and Tijian, 2018"
+TAF4,TFIID,[TAF],,,,"Goodrich and Tijian, 2019"
+TAF3,TFIID,[TAF],,,,"Goodrich and Tijian, 2020"
+TAF7,TFIID,[TAF],,,,"Goodrich and Tijian, 2021"
+TAF11,TFIID,[TAF],,,,"Goodrich and Tijian, 2022"
+TAF13,TFIID,[TAF],,,,"Goodrich and Tijian, 2023"
+TAF12,TFIID,[TAF],,,,"Goodrich and Tijian, 2024"
+TAF5,TFIID,[TAF],,,,"Goodrich and Tijian, 2025"
+TAF9,TFIID,[TAF],,,,"Goodrich and Tijian, 2026"
+TAF6,TFIID,[TAF],,,,"Goodrich and Tijian, 2027"
