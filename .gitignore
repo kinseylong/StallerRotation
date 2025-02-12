@@ -2,3 +2,5 @@ finches_IDRs/helperdata/savioresults/*.csv
 finches_IDRs/helperdata/*_finches.csv
 finches_IDRs/DelRosso/*.csv
 cofactors_humanproteinatlas/*.csv
+finches_IDRs/data/*.csv
+finches_IDRS/figures/*.png
