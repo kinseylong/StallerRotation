@@ -1,5 +1,22 @@
 Kinsey's Rotation Spring 2025
 
+
+TF_list:
+    - original_data:
+        - known_ADs_considering_isoforms_and_canonical.csv: Sanjana's list of ADs 
+        - lambert_supp_tables.csv: TFs from Lambert et al.
+        - proteinatlas-TFs.csv: TF-annotated proteins from Human Protein Atlas
+        - tycko_soto_delrosso_RD_coordinate_data.csv: Lab list of RDs
+    - TF_AD_RD.ipynb:
+        - Annotating AD/RD/both/none for all TFs
+    -   TF-specificity.ipynb:
+        - scRNA-seq cell-specificity and co-expression analysis on ADs/RDs
+        - Domain/motif/compbias annotations for ADs/RDs
+    - tfsmapped-gencodes.csv: Uniprot mapping for TFs from cofactors_humanproteinatlas>TF-AD-RD>tfs_combined.csv
+    - lambert_tfs.csv: EnsemblID and gene name for TFs in Lambert et al.
+    - expression_data: tissue expression data 
+    - maps: Uniprot mapping for ADs, RDs, TFs
+
 cofactor_complexes: 
     - data: manually curated csv files of cofactor subunits and paralogs
     - cofactor_expression: datasets of tissue specifity of cofactor paralogs
@@ -63,7 +80,6 @@ mediator
         - Sequence feature comparison of disordered regions
         - Manually-selected motif counting and comparison 
         - ALBATROSS comparison for tail IDR
-
 
 finches
     - virtual environment to fun FINCHES
