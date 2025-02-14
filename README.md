@@ -17,3 +17,24 @@ cofactor_complexes:
     - Same as above, but with normalized gene expression values across gene
 
 cofactors_humanproteinatlas:
+- data:
+    - TF-AD-RD: directory containing .csv and .tsv files with ADs, RDs, and transcription factors from Lambert et al and Human Protein Atlas annotation.
+    - proteinatlas-TFs.tsv: all proteins annotated as transcription factors in the Human Protein Atlas
+    - proteinatlas-cluster34.tsv: all proteins in cell-specific expression cluster 34 (same as MED12L)
+    - cofactors_mapped.tsv: Uniprot mapping tool results for manually curated cofactor subunits
+    - cofactors_mapped_combined.tsv: Uniprot mapping and paralog/cofactor complex annotation for each subunit. cofactors_mapped.tsv merged with cofactor_complexes>data>cofactor_complexes_manual.xlsx
+    - tfsmapped_gencodes.csv: Uniprot mapping for TFs from TF-AD-RD>tfs_combined.csv
+
+- humanproteinatlas_mining.ipynb: 
+    - API call to get scRNA-seq and Tau specificity scores from Human Protein Atlas
+    - API call to get annotations from Human Protein Atlas
+    - Application of API calls for cofactor subunits, ADs, RDs, transcription factors
+    - Resulting .csv files are put in helperdata
+
+- humanproteinatlas_analysis.ipynb:
+    - Looking at cell-specificity and co-expression of paralogous cofactor subunits
+    - Analysis of transcription factor co-expression
+
+
+
+
