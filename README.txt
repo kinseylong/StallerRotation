@@ -3,7 +3,7 @@ Kinsey's Rotation Spring 2025
 
 TF_list:
     - original_data:
-        - known_ADs_considering_isoforms_and_canonical.csv: Sanjana's list of ADs 
+        - known_ADs_considering_isoforms_and_canonical.csv: Sanjana's list of ADs
         - lambert_supp_tables.csv: TFs from Lambert et al.
         - proteinatlas-TFs.csv: TF-annotated proteins from Human Protein Atlas
         - tycko_soto_delrosso_RD_coordinate_data.csv: Lab list of RDs
